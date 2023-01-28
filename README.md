@@ -68,10 +68,6 @@ Nous allons faire appel au mot clé Extends afin de permettre aux classes Film e
     }
  
     jouer() {
-        /**
-         * Ici, je ne lance pas le film, je fais simplement
-         * un console.log mais le résultat est le même ;)
-         */
         console.log(PredatorMovie._url)
     }
  }
